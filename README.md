@@ -1,3 +1,3 @@
 # Bash-Scripts
-My Linux scripts
-A collection of some utility scripts I crafted TODO: add more info
+A collection of some utility scripts I crafted for my Arch installation
+TODO: add more info
